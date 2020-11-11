@@ -17,3 +17,6 @@
 │   ├──[Utils](./Utils.py)
 ```
 * The code is accompanied by necessary comments to facilitate understanding of how each step is operated.
+## Notice
+* The main idea is from [SiamFC](https://github.com/HengLan/SiamFC-PyTorch)
+
